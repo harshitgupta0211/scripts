@@ -1,6 +1,6 @@
 #!/bin/bash
 
-
+##user creation 
 # user defined variable
 
 hero="rancho"
